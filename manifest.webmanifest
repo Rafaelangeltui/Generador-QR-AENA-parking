@@ -1,0 +1,14 @@
+{
+  "name": "QR Traslados",
+  "short_name": "QR Traslados",
+  "description": "Generador de QR de traslados",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#005eb8",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
